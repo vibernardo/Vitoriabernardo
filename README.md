@@ -1,9 +1,4 @@
   ## Oii!! Eu sou Vitória Bernardo
-<div>
-  <a href="https://github.com/Vitoriabernardo">  
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Vitoriabernardo&show_icons=true&theme=dracula"/>
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoriabernardo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
 <div style="dislpay: inline_block"><br>  
   <img align="center" alt="Vitoria-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -15,6 +10,12 @@
   <img align="center" alt="Vitoria-Java" height="35" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
   </div> <br>
+  
+  <div>
+  <a href="https://github.com/Vitoriabernardo">  
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Vitoriabernardo&show_icons=true&theme=dracula"/>
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoriabernardo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   
   ##
  
