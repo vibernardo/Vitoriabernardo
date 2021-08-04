@@ -1,4 +1,7 @@
-## Oiii! Eu sou a Vitória Bernardo 
+## Oii! Prazer sou a Vitória Bernardo 🌻
+ 📖Graduada em Ciência da Computação 
+ 💻Interessada em desenvolvedor full stack
+ 
  <div>
   <a href="https://github.com/Vitoriabernardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitoriabernardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
