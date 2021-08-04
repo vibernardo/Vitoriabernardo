@@ -1,7 +1,9 @@
 ## Oii! Prazer sou a Vitória Bernardo 🌻
- 📖Graduada em Ciência da Computação
+💻Técnica em Informática
+👩🏽‍🎓Graduanda em Ciência da Computação
+😊Pronome: Ela/Dela
  
- 💻Desenvolvedora Full Stack
+ Desenvolvedora Full Stack
  
  <div style="display: inline_block">
  
