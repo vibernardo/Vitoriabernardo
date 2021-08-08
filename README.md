@@ -3,8 +3,6 @@
 👩🏽‍🎓Graduanda em Ciência da Computação
 😊Pronome: Ela/Dela
  
- Desenvolvedora Full Stack
- 
  <div style="display: inline_block">
  
  <br>
