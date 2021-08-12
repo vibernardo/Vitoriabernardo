@@ -1,6 +1,8 @@
 ## Oii! Prazer sou a Vitória Bernardo 🌻
 💻TI
+
 👩🏽‍🎓Graduanda em Ciência da Computação
+
 😊Pronome: Ela/Dela
  
  <div style="display: inline_block">
