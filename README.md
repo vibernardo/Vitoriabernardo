@@ -1,7 +1,7 @@
 ## Oii! Prazer sou a Vitória Bernardo 🌻
  <div>
  
-   Sejam bem-vindos, sou Vitória, técnica em informática, e graduanda em Ciência da Computação,
+   Sejam bem-vindos, sou Vitória, graduanda em Ciência da Computação,
    trilhando minha jornada na tecnologia, estudando e me aprimorando em Desenvolvimento Front End. 
  
  </div>
