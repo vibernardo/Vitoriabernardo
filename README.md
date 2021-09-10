@@ -1,7 +1,7 @@
 ## Oii! Prazer sou a Vitória Bernardo 🌻
  <div>
  
-   Sejam bem-vindos, cursando Ciência da Computação,
+   Sejam bem-vindos ao meu perfil, curso Ciência da Computação,
    trilhando minha jornada na tecnologia, estudando e me aprimorando em Desenvolvimento Front End. 
  
  </div>
