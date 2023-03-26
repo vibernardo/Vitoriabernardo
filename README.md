@@ -2,7 +2,7 @@
  <div>
  
    Sejam bem-vindos ao meu perfil, curso Ciência da Computação,
-   trilhando minha jornada na tecnologia, estudando e me aprimorando em Desenvolvimento Front End. 
+   trilhando minha jornada na tecnologia. 
  
  </div>
  
